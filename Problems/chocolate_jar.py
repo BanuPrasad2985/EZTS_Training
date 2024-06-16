@@ -1,4 +1,4 @@
-'''
+#Logic1
 jars=list(map(int,input().split()))
 n=int(input())
 a=0
@@ -11,9 +11,9 @@ for i in jars:
         a+=1
     else:
         a+=0
-    print(a)  
-'''
+    print(a) 
     
+#Logic2   
 jars=list(map(int,input().split()))
 n=int(input())
 a=0
